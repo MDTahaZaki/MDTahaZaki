@@ -20,18 +20,19 @@
 - 💼 Founder of **Zak's Remote PC Doctor**, providing remote laptop optimization and comprehensive troubleshooting.
 - 📫 How to reach me: **[Add your email/LinkedIn here]**
 
----
-
 ### 🏆 Certifications
 
-- ✅ **TryHackMe Jr Penetration Tester** — July 2026
+- ✅ **[TryHackMe Jr Penetration Tester](https://tryhackme.com/certificate/THM-H7YKYF2OQN)** — July 2026
   - ⏱️ 94 hours 25 minutes
   - 📜 Certificate ID: `THM-H7YKYF2OQN`
 
-<!-- IMPORTANT: Make sure you upload your certificate image to a /certificates folder in this repository for the image to load properly! -->
-<img src="./certificates/image_7d3281.png" alt="TryHackMe Jr Pen Tester Certificate" width="600"/>
-
----
+<div align="center">
+  <a href="https://tryhackme.com/certificate/THM-H7YKYF2OQN" target="_blank">
+    <img src="image_7d3281.png" alt="TryHackMe Jr Pen Tester Certificate" width="600"/>
+  </a>
+  <br>
+  <i>👆 Click the certificate to verify it live on TryHackMe!</i>
+</div>
 
 ### 💻 Tech Stack & Tools
 
